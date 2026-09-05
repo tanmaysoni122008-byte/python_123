@@ -1,39 +1,9 @@
-README.md -COPY THIS TEMPLATE
+# Python Project
 
-# Python Basics - Roll No. [25bcon0697]
+A simple collection of Python scripts for basic operations.
 
-## About
-Collection of Python programs created for the CodeWithAI practical.
+## Files
 
-## Programs
-- factorial.py - calculates the factorial of a number.
-- fibonacci.py - generates a Fibonacci sequence.
-- struct.py - [WRITE WHAT YOUR ACTUAL PROGRAM DOES].
-
-## How to Run
-Run a program with Python 3:
-python factorial.py
-
-## Requirements
-Python 3. No external packages are required for these programs.
-
-## Author
-[Tanmay Soni] - Roll No. [25bcon0697]
-AUDIT.md - COPY THIS FORMAT
-
-# README Fact-Check Audit
-
-| Claim made in README | True? | Evidence / Correction |
---- | --- | --- 1
-| Python 3 is required | Yes | Programs are written for Python 3 syntax. |
-| No external packages are required | Yes | No requirements.txt; imports use standard
-library only. I
-| factorial.py calculates factorial | Yes | Opened factorial.py and verified the logic. |
-| fibonacci.py generates Fibonacci sequence | Yes | Opened fibonacci.py and verified the
-output/logic. I
-| struct.py does [YOUR CLAIM] | [Yes/No] | [Point to the actual code/output or correct the
-claim.] |
-
-## Corrections Made
-- [Write any false claim you corrected or deleted.]
-- [If every claim was true, write: "No corrections were needed."]
+* **`square.py`** - Calculates the square of a number.
+* **`addition.py`** - Adds two numbers.
+* **`name.py`** - Prints a name.
